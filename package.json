@@ -1,0 +1,19 @@
+{
+  "name": "product_curd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mogodb": "^0.0.1-security",
+    "mongoose": "^8.5.3",
+    "mongoose-sequence": "^6.0.1",
+    "uuid": "^10.0.0"
+  }
+}
